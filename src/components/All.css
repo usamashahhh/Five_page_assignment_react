@@ -1,0 +1,54 @@
+.mg{
+    margin-left: 50px;
+};
+.linkto{
+    text-decoration: none;
+    color: white;
+};
+.tlc{
+    text-align: left;
+}
+.bdr{
+    border-radius: 30px;
+}
+.alitem{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.gifBgcolor{
+    background-color: rgb(241, 236, 232);
+}
+.gifFont{
+    font-size: 16px;
+}
+.hlg{
+    font-size: 30px;
+}
+.cardborder{
+    border: none;
+}
+.topfont{
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.gHeading{
+    text-align: center;
+    font-family: monospace;
+
+}
+.gCard{
+    text-align: center;
+    font-family: monospace;
+    border: none;
+
+}
+.cHeading{
+    text-align: center;
+    font-family: monospace;
+    color: aliceblue;
+
+}
+.serviceCard{
+    box-shadow: 5px 3px 5px 3px grey;
+}
